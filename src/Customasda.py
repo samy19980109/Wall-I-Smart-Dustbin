@@ -13,8 +13,8 @@ SAMPLE_PROJECT_NAME = "garbage_recognition"
 ENDPOINT = "https://southcentralus.api.cognitive.microsoft.com"
 training_endpoint = "https://southcentralus.api.cognitive.microsoft.com/customvision/v2.2/Training/"
 prediction_endpoint = "https://southcentralus.api.cognitive.microsoft.com/customvision/v2.0/Prediction/"
-training_key = "fa96f8bf88ed4ec4b64d5f5d8231b90a"
-prediction_key = "757f8e9fdcd14c849892769302131c05"
+training_key = "*****************************"
+prediction_key = "*************************************"
 
 
 #  function to fetch project object from Custom Vision Service

@@ -3,7 +3,7 @@ from watson_developer_cloud import VisualRecognitionV3
 
 visual_recognition = VisualRecognitionV3(
     '2018-03-19',
-    iam_apikey='OahsptNAD0odZ-RIMhH_zxDsBhJIK3nxDbQnmC9r7YBP')
+    iam_apikey='*************************************')
 
 with open('./fruitbowl.jpg', 'rb') as images_file:
     classes = visual_recognition.classify(
